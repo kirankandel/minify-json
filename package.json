@@ -1,0 +1,28 @@
+{
+  "name": "minify-json",
+  "version": "1.0.0",
+  "description": "Minify JSON ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirankandel/minify-json.git"
+  },
+  "keywords": [
+    "minify",
+    "json",
+    "minify-json",
+    "json-minify",
+    "compact",
+    "compress"
+  ],
+  "author": "kirankandel007@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirankandel/minify-json/issues"
+  },
+  "homepage": "https://github.com/kirankandel/minify-json#readme"
+}
